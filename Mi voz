@@ -1,0 +1,9 @@
+<button onclick="sonido()">Entra</button>
+<script>
+function sonido(){
+let u=new Audio('mi-voz.mp3');
+u.play();
+}
+</script>  
+</body>
+</html>
